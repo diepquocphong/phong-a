@@ -5,4 +5,4 @@ A touch-optimized code editor with AI assistance.
 - Syntax Highlighting
 - File Management
 - AI Assistant
-- Mobile-first design
+- Mobile-first designaa
